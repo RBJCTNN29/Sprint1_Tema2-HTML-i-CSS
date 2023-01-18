@@ -1,0 +1,158 @@
+body {
+    max-width: 1200px ;
+    background-color: white;
+}
+
+.canvas {
+    width: 1200px;
+    height: 800px;
+    background-color: white;
+    padding-right: 1.25rem
+
+}
+.top-box-black{
+    width: 62.5rem;
+    height: 11.75rem;
+    background-color: black;
+    margin-top: 1.25rem;
+    margin-left: 1.25rem;
+    margin-right: 1.25rem;
+    padding-top: 0.3rem;
+    /* why no margin on top of grey box if I don't do it with padding?? */
+}
+.top-top-box-grey {
+    background-color: #2d4059;
+    display: flex;
+    width: 60rem;
+    margin-top: 1.25rem; 
+    margin-left: 1.25rem;
+    margin-right: 1.25rem;
+
+}
+.top-top-fill-left {
+    width: 10rem;
+    height: 1.25rem;
+    background-color: #ea5455;
+    margin: 1.25rem;
+}
+.top-top-fill-mid {
+    width: 42rem;
+    height: 1.25rem;
+    background-color: #ea5455;
+    margin-top: 1.25rem;
+}
+.top-top-fill-right {
+    width: 10rem;
+    height: 1.25rem;
+    background-color: #ea5455;
+    margin: 1.25rem;
+}
+.top-btm-box-orange {
+    width: 60rem;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.3rem;
+
+}
+.top-btm-fill {
+    width: 60rem;
+    height: 1.25rem;
+    border: 1.25rem solid #f07b3f;
+    background-color: #fed460;
+    margin-top: 1.25rem;
+}
+.mid-box-black {
+    margin: 1.25rem;
+    display: flex;
+    width: 62.5rem;
+    height: 11.75rem;
+    background-color: black;
+}
+.mid-left-box-grey {
+    display: block;
+    background-color: #4e4e6a;
+    margin: 1.25rem;
+    width: 38rem;
+    height: 9rem;
+}
+.mid-left-group-top {
+    display: flex;
+}
+.mid-left-top-fill-left {
+    flex-wrap: wrap;
+    width: 18rem;
+    height: 1.25rem;
+    background-color: #1f6cb0;
+    margin-top: 1.25rem;
+    margin-left: 1.25rem;
+
+}
+.mid-left-top-fill-right {
+    flex-wrap: wrap;
+    width: 18rem;
+    height: 1.25rem;
+    background-color: #1f6cb0;
+    margin-top: 1.25rem;
+    margin-right: 1.25rem;
+    margin-left: 1.25rem;
+}
+.mid-left-group-mid {
+    display: flex;
+}
+.mid-left-mid-fill-left {
+    width: 18rem;
+    height: 1.25rem;
+    background-color: #1f6cb0;
+    margin-top: 1.25rem;
+    margin-left: 1.25rem;
+}
+.mid-left-mid-fill-right {
+    width: 18rem;
+    height: 1.25rem;
+    background-color: #1f6cb0;
+    margin: 1.25rem;
+}
+.mid-left-fill-bottom {
+    width: 35.5rem;
+    height: 1.25rem;
+    background-color: #70a3c4;
+    margin-left: 1.25rem;
+}
+.mid-right-box-orange {
+    width: 20.5rem;
+    height: 9rem;
+    display: block;
+    background-color: #f73f52;
+    margin-top: 1.25rem;
+    margin-right: 1.25rem
+}
+.mid-right-fill-top {
+    width: 18rem;
+    height: 1.25rem;
+    background-color: #feea85;
+    margin: 1.25rem;
+}
+.mid-right-fill-btm {
+    width: 18rem;
+    height: 1.25rem;
+    background-color: #feea85;
+    margin: 1.25rem;
+} 
+.bottom-box-black {
+    width: 62.5rem;
+    height: 2.5rem;
+    background-color: black;
+    margin-left: 1.25rem;
+    margin-right: 1.25rem;
+    padding-top: 1.25rem;
+    
+}
+.bottom-fill {
+    height: 1.25rem;
+    width: 60rem;
+    margin-right: 1.25rem;
+    margin-left: 1.25rem;
+    margin-bottom: none;
+    background-color: #e6af2e; 
+}
