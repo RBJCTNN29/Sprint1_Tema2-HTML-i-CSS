@@ -1,0 +1,124 @@
+body {
+    max-width: 1200px;
+    background-color: white;
+    padding-left: 6rem;
+    padding-top: 4rem;
+    padding-right: 1rem;
+    padding-bottom: 1rem;
+}
+
+.top-box-black {
+    width: 28rem; 
+    background-color: black;
+    padding: 1rem;
+}
+.top-top-box-grey {
+    display: flex;
+    background-color: #2d4059;
+    margin-bottom: 0.5rem;
+}
+.top-top-fill-left {
+    width: 4rem;
+    height: 1rem;
+    background-color: #ea5455;
+    margin-top: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+}
+.top-top-fill-mid {
+    width: 16rem;
+    height: 1rem;
+    background-color: #ea5455;
+    margin-top: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+}
+.top-top-fill-right {
+    width: 4rem;
+    height: 1rem;
+    background-color: #ea5455;
+    margin-top: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+}
+.top-btm-box-orange {
+    background-color: #f07b3f;
+    padding: 1rem;
+}
+.top-btm-fill-yellow {
+    width: 26rem;
+    height: 1rem;
+    background-color: #fed460;
+}
+.mid-box-yellow {
+    width: 28rem;
+    background-color: #feff03;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
+}
+.mid-top-box-grey {
+    background-color: #4e4e6a;
+    margin-bottom: 1rem;
+}
+.mid-top-grp-top {
+    display: flex;
+}
+.mid-top-top-fill-left {
+    background-color: #1f6cb0;
+    width: 12.5rem;
+    height: 1rem;
+    margin-top: 1rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+.mid-top-top-fill-right {
+    background-color: #1f6cb0;
+    width: 12.5rem;
+    height: 1rem;
+    margin-top: 1rem;
+    margin-right: 1rem;
+}
+.mid-top-grp-mid {
+    display:flex;
+}
+.mid-top-mid-fill-left {
+    background-color: #1f6cb0;
+    width: 12.5rem;
+    height: 1rem;
+    margin: 1rem;
+}
+.mid-top-mid-fill-right {
+    background-color: #1f6cb0;
+    width: 12.5rem;
+    height: 1rem;
+    margin-top: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+}
+.mid-btm-box-orange {
+    background-color: #f73f52;
+    padding: 1rem;
+}
+.mid-btm-fill-top {
+    background-color: #feea85;
+    width: 26rem;
+    height: 1rem;
+}
+.mid-btm-fill-btm {
+    background-color: #feea85;
+    width: 26rem;
+    height: 1rem;
+    margin-top: 0.5rem;
+}
+.btm-box-black{
+    background-color: black;
+    padding: 1rem;
+    width: 28rem;
+}
+.btm-fill-yellow {
+    width: 28rem;
+    height: 1rem;
+    background-color: #e6af2e;
+}
